@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-03-20T06:02:58.234Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-03-20T06:28:14.489Z",
     "templateType": "full_banner_wipe",
     "propertyId": "76baae37-eb2c-4141-a648-27e3a036cebe",
     "homepageId": "0f502d0f-5cd9-4768-ab71-5823c6e3f204"
@@ -224,7 +224,7 @@
     {
       "id": "f4160fce-7e1f-4a50-af60-ef09f618da42",
       "name": "201 (개별테라스)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "",
       "group": null,
@@ -276,9 +276,9 @@
     {
       "id": "8b8d07f1-5dc6-446f-8877-ad271d372681",
       "name": "202 (개별테라스)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
-      "usageGuide": "",
+      "usageGuide": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "group": null,
       "size": 42.98,
       "baseOccupancy": 2,
@@ -328,7 +328,7 @@
     {
       "id": "dac72f92-b363-4933-9457-39bad6251276",
       "name": "301 (개별테라스)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1,쇼파베드1)+주방1+화장실1",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1,쇼파베드1)+주방1+화장실1",
       "usageGuide": "",
       "group": null,
@@ -381,7 +381,7 @@
     {
       "id": "f536ded3-c331-4c7e-ade4-c65df3f8374f",
       "name": "302 (개별테라스)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "",
       "group": null,
@@ -513,7 +513,7 @@
                 "description": "춘천의 아름다운 자연을 가까이에서 즐기다"
               },
               "closing": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "c0167b6d-1b6e-4d22-8fe8-587b9fc3a200",
@@ -522,7 +522,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "essence": {
                 "title": "Rabbit Star",
@@ -552,7 +553,7 @@
                 "description": "북한강이 흐르는 춘천의 자연을 가까이 누리는 래빗스타펜션\n호반의 도시 춘천의 여유를 편안하게 느껴보세요.\n깔끔하고 쾌적한 객실에서 쉬어가기 좋은 공간\n자연과 휴식이 어우러진 춘천 여행의 특별한 숙소"
               },
               "gallery": {
-                "title": "",
+                "title": "래빗스타 펜션 미리보기",
                 "images": [
                   {
                     "id": "9bbcfb78-70f4-47ed-9160-40bc58022c5b",
@@ -569,31 +570,33 @@
                     "isSelected": true
                   },
                   {
-                    "id": "2eded26f-588a-4efd-8ec0-fcecc0f24dc7",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_gallery/1773985825393-xs7duqyg38.jpg",
-                    "sortOrder": 2,
-                    "description": "피자래빗",
-                    "isSelected": true
-                  },
-                  {
                     "id": "5395fb1f-f0ac-4260-9901-779f41eba797",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_gallery/1773985825393-fgsszi8yd0u.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "웰컴드링크",
                     "isSelected": true
                   },
                   {
                     "id": "94dd41d2-89d7-43ab-a938-85d7209b6e52",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_gallery/1773985962228-uycml2sbksg.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "포토존",
                     "isSelected": true
+                  },
+                  {
+                    "id": "2eded26f-588a-4efd-8ec0-fcecc0f24dc7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_gallery/1773985825393-xs7duqyg38.jpg",
+                    "sortOrder": 4,
+                    "description": "피자래빗",
+                    "isSelected": true
                   }
-                ]
+                ],
+                "description": "래빗스타 펜션만의 편안한 공간과 다양한 매력을 만나보세요"
               },
               "signature": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [],
+                "description": " "
               }
             }
           ]
