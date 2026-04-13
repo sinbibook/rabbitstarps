@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-03-23T07:43:19.394Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-04-13T02:48:55.241Z",
     "templateType": "full_banner_wipe",
     "propertyId": "76baae37-eb2c-4141-a648-27e3a036cebe",
     "homepageId": "0f502d0f-5cd9-4768-ab71-5823c6e3f204"
@@ -325,7 +325,7 @@
     "nameEn": "Chuncheon Rabbit Star Pension",
     "domain": "rabbitstarps.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11380",
-    "ybsId": ""
+    "ybsId": "75162"
   },
   "rooms": [
     {
