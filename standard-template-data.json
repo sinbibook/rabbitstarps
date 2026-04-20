@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-04-20T06:36:04.122Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-04-20T06:54:23.492Z",
     "templateType": "full_banner_wipe",
     "propertyId": "76baae37-eb2c-4141-a648-27e3a036cebe",
     "homepageId": "0f502d0f-5cd9-4768-ab71-5823c6e3f204"
@@ -982,7 +982,29 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [
+          {
+            "id": "7a2e5031-b2c5-4e5a-8d13-adff16e646ba",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "16cd4be5-cb37-41d5-91aa-1a5550eb2cdf",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/popup/1776668034749-0i1kmr069age.jpg",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "7a2e5031-b2c5-4e5a-8d13-adff16e646ba"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          }
+        ]
       },
       "theme": {
         "font": {
