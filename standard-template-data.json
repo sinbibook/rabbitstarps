@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-04-20T06:54:23.492Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-05-18T05:54:03.722300903Z",
     "templateType": "full_banner_wipe",
     "propertyId": "76baae37-eb2c-4141-a648-27e3a036cebe",
     "homepageId": "0f502d0f-5cd9-4768-ab71-5823c6e3f204"
@@ -23,13 +23,13 @@
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "강원특별자치도",
     "city": "춘천시",
-    "amenities": [],
+    "amenities": [ ],
     "nearbyAttractions": [
       "산",
       "맛집",
       "수상스포츠"
     ],
-    "services": [],
+    "services": [ ],
     "propertyThemes": [
       "산뷰",
       "힐링"
@@ -46,7 +46,8 @@
       "businessEmail": "0000@naver.com",
       "businessType": "individual",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": "",
+      "ecommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -72,46 +73,52 @@
         "displayOrder": 100,
         "images": [
           {
-            "id": "a657a25c-862d-4b21-b078-25bfb8eb6403",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/825a9579-aead-4bee-abec-bb32bb3245cd/main/1773974522099-ezgluarajhm.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "28c91c20-3548-4b0d-96bf-aa6a66427fe4",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/825a9579-aead-4bee-abec-bb32bb3245cd/main/1773974522099-edn5s8hemcq.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "06ac791a-b38c-4916-8c26-19ec069ef982",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/825a9579-aead-4bee-abec-bb32bb3245cd/main/1773974522188-4m8hfbwewoa.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "3ec477b2-766a-4c97-8457-a765d0cc7d2b",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/825a9579-aead-4bee-abec-bb32bb3245cd/main/1773974522099-ppi10hrzg4o.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "1812ece9-902a-4924-8498-295beaa39bb1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/825a9579-aead-4bee-abec-bb32bb3245cd/main/1773974522188-woy93ymt868.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "f5d805ea-0b02-42ae-955b-9a2aa6413f38",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/825a9579-aead-4bee-abec-bb32bb3245cd/main/1773974522099-gmpytpptr9a.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "28c91c20-3548-4b0d-96bf-aa6a66427fe4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/825a9579-aead-4bee-abec-bb32bb3245cd/main/1773974522099-edn5s8hemcq.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "a657a25c-862d-4b21-b078-25bfb8eb6403",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/825a9579-aead-4bee-abec-bb32bb3245cd/main/1773974522099-ezgluarajhm.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "06ac791a-b38c-4916-8c26-19ec069ef982",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/825a9579-aead-4bee-abec-bb32bb3245cd/main/1773974522188-4m8hfbwewoa.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1812ece9-902a-4924-8498-295beaa39bb1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/825a9579-aead-4bee-abec-bb32bb3245cd/main/1773974522188-woy93ymt868.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -123,39 +130,44 @@
         "displayOrder": 101,
         "images": [
           {
-            "id": "bcdc89d7-f611-49fe-9528-4235ef5aaab9",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4c82afad-b52a-42a3-9e06-7f7c127a0e0a/main/1773974523897-1oycq6t3wio.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "ac5b317e-7fba-4cc2-ada6-f9f0915de490",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4c82afad-b52a-42a3-9e06-7f7c127a0e0a/main/1773974523897-5eezhon6ghf.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "4a7a066e-927e-4a25-bca8-010d5bdfa1fd",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4c82afad-b52a-42a3-9e06-7f7c127a0e0a/main/1773974523897-dlguzbov8zu.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "7d429eaf-07ba-4a31-9747-a0087a1522d6",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4c82afad-b52a-42a3-9e06-7f7c127a0e0a/main/1773974523897-n1qcmgfro9h.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "425dedeb-6be7-4062-8b47-29da570df9fc",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4c82afad-b52a-42a3-9e06-7f7c127a0e0a/main/1773974523897-a69u90ppg1.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "bcdc89d7-f611-49fe-9528-4235ef5aaab9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4c82afad-b52a-42a3-9e06-7f7c127a0e0a/main/1773974523897-1oycq6t3wio.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7d429eaf-07ba-4a31-9747-a0087a1522d6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4c82afad-b52a-42a3-9e06-7f7c127a0e0a/main/1773974523897-n1qcmgfro9h.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ac5b317e-7fba-4cc2-ada6-f9f0915de490",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4c82afad-b52a-42a3-9e06-7f7c127a0e0a/main/1773974523897-5eezhon6ghf.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -215,131 +227,142 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/thumbnail/1774229693234-8qmwffb9tpp.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ],
         "exterior": [
           {
             "id": "21459ad8-6d35-4fc4-b21a-490262575442",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-e4oam3disd.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "364ca98e-1c04-4c2a-b55f-4de1b0f00245",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693236-bvz2jeomwt.jpg",
-            "sortOrder": 11,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "2dee68e8-63f0-4118-8a9b-08720c791242",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-a3x3eh2352g.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "97460385-0d1f-407b-a975-ec2c59585d5c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693236-eh21qg881v9.jpg",
-            "sortOrder": 13,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "afd30ca8-bf3e-471d-afce-46b350d1581c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-rcsu0j8i0q.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "723d68f4-8548-482b-be67-a4e0f6727b6a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-05y3751qtdq8.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "ba4c1c7f-5140-4a4f-b2e4-a73796f6d951",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693236-su8uzc4zoua.jpg",
-            "sortOrder": 10,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "d5f7688f-e490-4877-b6be-4b19c884029c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-s0ddpanftm.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "9b5337b8-6194-4084-a7da-db8f238c222d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-4kk4jguu0ph.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "259aeb67-766e-4376-90c5-61c870409774",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693236-bbp6nrnmwo.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "c02d8275-274f-4ed3-b89a-1ee5f2d91081",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-r9s5pg08bs.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "9793f49a-10e0-47ac-86e5-b186bd4df9a5",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693236-9z5zs0tz5ab.jpg",
-            "sortOrder": 12,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "1e7cd718-f710-47d9-9ee4-ee1a933e8b74",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-vsyeful6859.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "4a29d65e-7d07-4771-95b1-6dbb10c7308a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-1t3t18ov117.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d5f7688f-e490-4877-b6be-4b19c884029c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-s0ddpanftm.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c02d8275-274f-4ed3-b89a-1ee5f2d91081",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-r9s5pg08bs.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2dee68e8-63f0-4118-8a9b-08720c791242",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-a3x3eh2352g.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "723d68f4-8548-482b-be67-a4e0f6727b6a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-05y3751qtdq8.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "afd30ca8-bf3e-471d-afce-46b350d1581c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-rcsu0j8i0q.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1e7cd718-f710-47d9-9ee4-ee1a933e8b74",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-vsyeful6859.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9b5337b8-6194-4084-a7da-db8f238c222d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693235-4kk4jguu0ph.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "259aeb67-766e-4376-90c5-61c870409774",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693236-bbp6nrnmwo.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ba4c1c7f-5140-4a4f-b2e4-a73796f6d951",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693236-su8uzc4zoua.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "364ca98e-1c04-4c2a-b55f-4de1b0f00245",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693236-bvz2jeomwt.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9793f49a-10e0-47ac-86e5-b186bd4df9a5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693236-9z5zs0tz5ab.jpg",
+            "sortOrder": 12,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "97460385-0d1f-407b-a975-ec2c59585d5c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/76baae37-eb2c-4141-a648-27e3a036cebe/exterior/1774229693236-eh21qg881v9.jpg",
+            "sortOrder": 13,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ],
-        "surrounding": [],
-        "commonArea": []
+        "surrounding": [ ],
+        "commonArea": [ ]
       }
     ],
     "nameEn": "Chuncheon Rabbit Star Pension",
     "domain": "rabbitstarps.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11380",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1430808710",
     "ybsId": "75162"
   },
   "rooms": [
     {
       "id": "f4160fce-7e1f-4a50-af60-ef09f618da42",
-      "propertyId": "76baae37-eb2c-4141-a648-27e3a036cebe",
-      "propertyName": "춘천 래빗스타펜션",
-      "name": "201 (개별테라스)",
-      "nameEn": "201",
+      "name": "201 (개별테라스, 바베큐X)",
       "description": "펜션 내 바베큐 이용이 '불가'합니다. \n1층에 있는 래빗스타의 레스토랑에서 멋진 풍경과 맛있는 음식을 즐겨보세요 ! ",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "",
       "group": null,
       "size": 39.67,
-      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -349,20 +372,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "의자",
@@ -388,32 +401,34 @@
         "테라스"
       ],
       "status": "active",
-      "bankAccountId": "46bf0dee-4370-482e-a598-2610ccce2a7b",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 0,
-      "createdAt": "2026-03-16T06:46:20.815Z",
-      "updatedAt": "2026-03-20T08:37:32.169Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 0
     },
     {
       "id": "8b8d07f1-5dc6-446f-8877-ad271d372681",
-      "propertyId": "76baae37-eb2c-4141-a648-27e3a036cebe",
-      "propertyName": "춘천 래빗스타펜션",
-      "name": "202 (개별테라스)",
-      "nameEn": "202",
+      "name": "202 (개별테라스, 바베큐X)",
       "description": "펜션 내 바베큐 이용이 '불가'합니다. \n1층에 있는 래빗스타의 레스토랑에서 멋진 풍경과 맛있는 음식을 즐겨보세요 ! ",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "group": null,
       "size": 42.98,
-      "sizePyeong": 13,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -423,20 +438,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "의자",
@@ -462,32 +467,34 @@
         "테라스"
       ],
       "status": "active",
-      "bankAccountId": "46bf0dee-4370-482e-a598-2610ccce2a7b",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 1,
-      "createdAt": "2026-03-16T06:46:20.799Z",
-      "updatedAt": "2026-03-20T08:37:40.289Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 1
     },
     {
       "id": "dac72f92-b363-4933-9457-39bad6251276",
-      "propertyId": "76baae37-eb2c-4141-a648-27e3a036cebe",
-      "propertyName": "춘천 래빗스타펜션",
-      "name": "301 (개별테라스)",
-      "nameEn": "301",
+      "name": "301 (개별테라스, 바베큐X)",
       "description": "펜션 내 바베큐 이용이 '불가'합니다. \n1층에 있는 래빗스타의 레스토랑에서 멋진 풍경과 맛있는 음식을 즐겨보세요 ! ",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1,쇼파베드1)+주방1+화장실1",
       "usageGuide": "",
       "group": null,
       "size": 42.98,
-      "sizePyeong": 13,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -496,22 +503,12 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
         "소파베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "의자",
@@ -537,32 +534,34 @@
         "테라스"
       ],
       "status": "active",
-      "bankAccountId": "46bf0dee-4370-482e-a598-2610ccce2a7b",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 2,
-      "createdAt": "2026-03-16T06:46:20.811Z",
-      "updatedAt": "2026-03-20T08:37:45.089Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 2
     },
     {
       "id": "f536ded3-c331-4c7e-ade4-c65df3f8374f",
-      "propertyId": "76baae37-eb2c-4141-a648-27e3a036cebe",
-      "propertyName": "춘천 래빗스타펜션",
-      "name": "302 (개별테라스)",
-      "nameEn": "302",
+      "name": "302 (개별테라스, 바베큐X)",
       "description": "펜션 내 바베큐 이용이 '불가'합니다. \n1층에 있는 래빗스타의 레스토랑에서 멋진 풍경과 맛있는 음식을 즐겨보세요 ! ",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "",
       "group": null,
       "size": 42.98,
-      "sizePyeong": 13,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -572,20 +571,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "의자",
@@ -611,19 +600,25 @@
         "테라스"
       ],
       "status": "active",
-      "bankAccountId": "46bf0dee-4370-482e-a598-2610ccce2a7b",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 3,
-      "createdAt": "2026-03-16T06:46:20.714Z",
-      "updatedAt": "2026-03-20T08:37:49.050Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 3
     }
   ],
   "homepage": {
@@ -631,7 +626,7 @@
     "templateType": "full_banner_wipe",
     "images": [
       {
-        "logo": []
+        "logo": [ ]
       }
     ],
     "seo": {
@@ -639,7 +634,12 @@
       "description": "호반의 도시 춘천에서 편안한 쉼과 자연을 만나는 숙소",
       "keywords": "춘천래빗스타,춘천숙소,춘천숙소추천,춘천여행숙소,춘천펜션"
     },
-    "socialLinks": {},
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
     "customFields": {
       "pages": {
         "index": {
@@ -653,61 +653,69 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_hero/1773985521416-4fvu5u3ffbs.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "ff35cfcd-828a-4015-957f-ceb4c6b31643",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_hero/1773978862717-r7z5js910fm.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "4fc135b4-e1d7-4ba2-b052-94ff7b425054",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_hero/1773978862717-5nu4e2poukl.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "0cb2369b-a2d6-4143-8ce4-68503a884794",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_hero/1773978862717-n8zb3jh58m.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "f683ea61-3f99-49de-9d2b-481d53e96a37",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_hero/1773978862717-ry5nuslq89n.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "1f196a9f-2d30-4c82-acba-c8029829e98a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_hero/1773978862717-gdqdtlcx20d.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "2e47298e-1363-4134-aadf-1bce425f6455",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_hero/1773978862717-kzr4u0ngg8s.jpg",
                     "sortOrder": 6,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "d81c8577-ec2a-40f4-8824-2a2934f9968d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_hero/1773978862717-v258soefnu9.jpg",
                     "sortOrder": 7,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "description": "춘천의 아름다운 자연을 가까이에서 즐기다",
+                "videos": [ ],
                 "mediaType": "image",
-                "videos": []
+                "description": "춘천의 아름다운 자연을 가까이에서 즐기다"
               },
               "closing": {
                 "title": " ",
@@ -717,12 +725,13 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_closing/1773985825393-kvw89uzpirm.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "description": " ",
+                "videos": [ ],
                 "mediaType": "image",
-                "videos": []
+                "description": " "
               },
               "essence": {
                 "title": "Rabbit Star",
@@ -732,26 +741,29 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_essence/1773983098531-ol3tdb80om.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "95a9c049-b7c5-45e0-987e-7d460e59b30f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_essence/1773983098532-tcjjlruqvtp.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "088d6520-1eaf-4b6f-bf2d-c1533220a1ea",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_essence/1773983098532-f8yv21o0won.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "description": "북한강이 흐르는 춘천의 자연을 가까이 누리는 래빗스타펜션\n호반의 도시 춘천의 여유를 편안하게 느껴보세요.\n깔끔하고 쾌적한 객실에서 쉬어가기 좋은 공간\n자연과 휴식이 어우러진 춘천 여행의 특별한 숙소",
+                "videos": [ ],
                 "mediaType": "image",
-                "videos": []
+                "description": "북한강이 흐르는 춘천의 자연을 가까이 누리는 래빗스타펜션\n호반의 도시 춘천의 여유를 편안하게 느껴보세요.\n깔끔하고 쾌적한 객실에서 쉬어가기 좋은 공간\n자연과 휴식이 어우러진 춘천 여행의 특별한 숙소"
               },
               "gallery": {
                 "title": "래빗스타 펜션 미리보기",
@@ -761,47 +773,52 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_gallery/1773985825392-dn3pjwz6o0g.jpg",
                     "sortOrder": 0,
                     "description": "객실내부",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "c3dacf06-a404-4ac9-b8b0-3f68967690c8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_gallery/1773985825392-witzkbgyn2p.jpg",
                     "sortOrder": 1,
                     "description": "개별 테라스",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "5395fb1f-f0ac-4260-9901-779f41eba797",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_gallery/1773985825393-fgsszi8yd0u.jpg",
                     "sortOrder": 2,
                     "description": "웰컴드링크",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "94dd41d2-89d7-43ab-a938-85d7209b6e52",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_gallery/1773985962228-uycml2sbksg.jpg",
                     "sortOrder": 3,
                     "description": "포토존",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "2eded26f-588a-4efd-8ec0-fcecc0f24dc7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/index_gallery/1773985825393-xs7duqyg38.jpg",
                     "sortOrder": 4,
                     "description": "피자래빗",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "description": "래빗스타 펜션만의 편안한 공간과 다양한 매력을 만나보세요",
+                "videos": [ ],
                 "mediaType": "image",
-                "videos": []
+                "description": "래빗스타 펜션만의 편안한 공간과 다양한 매력을 만나보세요"
               },
               "signature": {
                 "title": " ",
-                "images": [],
-                "description": " ",
+                "images": [ ],
+                "videos": [ ],
                 "mediaType": "image",
-                "videos": []
+                "description": " "
               }
             }
           ]
@@ -817,7 +834,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/directions_hero/1773986531905-yu3mxx44cg.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -839,7 +857,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/main_hero/1773991882098-in5bafix57.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": "북한강이 흐르는 춘천의 자연을 가까이 누리는 래빗스타 펜션\n호반의 도시 춘천의 여유를 편안하게 느껴보세요.\n깔끔하고 쾌적한 객실에서 쉬어가기 좋은 공간\n자연과 휴식이 어우러진 춘천 여행의 특별한 숙소"
@@ -901,11 +920,11 @@
               {
                 "hero": {
                   "title": "",
-                  "images": []
+                  "images": [ ]
                 },
                 "gallery": {
                   "title": " ",
-                  "images": []
+                  "images": [ ]
                 }
               }
             ]
@@ -916,11 +935,11 @@
               {
                 "hero": {
                   "title": "",
-                  "images": []
+                  "images": [ ]
                 },
                 "gallery": {
                   "title": " ",
-                  "images": []
+                  "images": [ ]
                 }
               }
             ]
@@ -931,11 +950,11 @@
               {
                 "hero": {
                   "title": "",
-                  "images": []
+                  "images": [ ]
                 },
                 "gallery": {
                   "title": " ",
-                  "images": []
+                  "images": [ ]
                 }
               }
             ]
@@ -946,17 +965,17 @@
               {
                 "hero": {
                   "title": "",
-                  "images": []
+                  "images": [ ]
                 },
                 "gallery": {
                   "title": " ",
-                  "images": []
+                  "images": [ ]
                 }
               }
             ]
           }
         ],
-        "facility": [],
+        "facility": [ ],
         "reservation": {
           "sections": [
             {
@@ -968,13 +987,14 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f502d0f-5cd9-4768-ab71-5823c6e3f204/reservation_hero/1773986572386-6azm7d8fg8s.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
               "about": {
                 "title": " ",
-                "images": [],
+                "images": [ ],
                 "description": " "
               }
             }
@@ -1040,6 +1060,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_thumbnail"
           },
           {
@@ -1048,6 +1069,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1056,6 +1078,7 @@
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1064,6 +1087,7 @@
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1072,6 +1096,7 @@
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1080,6 +1105,7 @@
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1088,6 +1114,7 @@
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1096,6 +1123,7 @@
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1104,6 +1132,7 @@
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1112,6 +1141,7 @@
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1120,6 +1150,7 @@
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1128,6 +1159,7 @@
             "sortOrder": 10,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1136,6 +1168,7 @@
             "sortOrder": 11,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           }
         ],
